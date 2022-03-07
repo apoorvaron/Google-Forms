@@ -4,3 +4,5 @@ Three tables
 3) users
 
 change in /environment.php. file 
+
+put "gForm" folder in htdocs folder
