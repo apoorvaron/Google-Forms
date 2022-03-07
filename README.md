@@ -11,6 +11,7 @@ in localhost:8888/phomyadmin/
 create database 
 
 database name  "dB"
+
 Add Three tables in database name "dB".     
 1) fields.sql
 2) forms.sql
