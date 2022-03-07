@@ -4,7 +4,7 @@ unzip it
 
 put gForm folder inside htdocs folder 
 
-change in /environment.php. file 
+change in htdocs/gForm/environment.php. file 
 
 in localhost:8888/phomyadmin/
 
