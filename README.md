@@ -6,3 +6,5 @@ Add Three tables in database name "dB".     in      localhost:8888/phomyadmin/
 change in /environment.php. file 
 
 put "gForm" folder in htdocs folder
+
+Run localhost:8888/gForm/
