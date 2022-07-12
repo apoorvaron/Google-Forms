@@ -40,7 +40,7 @@ Step -6   Create database
 
 Step -7   Database name  "dB"
 
-Step -8   Add Three tables from "./ls" directory in database name "dB". 
+Step -8   Add Three tables from "/" directory in database name "dB". 
 
             1) fields.sql
             2) forms.sql
