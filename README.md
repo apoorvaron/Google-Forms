@@ -1,6 +1,13 @@
 # How to Run on local 📖
 
-- Must installed xampp (FOR WINDOWS) & MAMP (FOR MAC) 
+- Must install PHP version (FOR WINDOWS) & (FOR MAC) Both
+- Tutorial - https://www.youtube.com/watch?v=mVBe75aGBHQ
+
+
+- Must install xampp (FOR WINDOWS) & MAMP (FOR MAC) 
+- Tutorial - https://www.youtube.com/watch?v=at19OmH2Bg4
+
+-------*---------*----------
 
 Step -1   Download zip file 
 
