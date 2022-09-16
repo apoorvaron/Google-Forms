@@ -11,7 +11,7 @@
 
 Step -1   Download zip file 
 
-Step -2   unzip it 
+Step -2   Unzip it & Rename it to "gForm"
 
 Step -3   Put gForm folder inside 
 
@@ -40,14 +40,14 @@ Step -4   Change in htdocs/gForm/environment.php. file (FOR WINDOWS)
 
 Step -5   Setup db open 
 
-          localhost:8888/phpmyadmin/   (FOR MAC)
-          localhost/phpmyadmin/   (FOR WINDOWS)
+          localhost:8888/phpmyadmin/   (FOR MAMP)
+          localhost/phpmyadmin/   (FOR XAMPP)
 
 Step -6   Create database 
 
 Step -7   Database name  "dB"
 
-Step -8   Add Three tables from "/" directory in database name "dB". 
+Step -8   Add Three tables from "/htdocs/gForm/" directory in database name "dB". 
 
             1) fields.sql
             2) forms.sql
@@ -55,7 +55,7 @@ Step -8   Add Three tables from "/" directory in database name "dB".
 
 Step -9   Run in browser 
 
-          localhost:8888/gForm/     (FOR MAC)
-          localhost/gForm/          (FOR WINDOWS)
+          localhost:8888/gForm/     (FOR MAMP)
+          localhost/gForm/          (FOR XAMPP)
 
 
