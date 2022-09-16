@@ -24,7 +24,7 @@ Step -4   Change in /Applications/MAMP/htdocs/gForm/environment.php. file (FOR M
                $env_server = "localhost";
                $env_username = "root";
                $env_password = "root";
-               $env_database = "dB";
+               $env_database = "gForm";
                $env_port = "8889";
             ?>
 
@@ -34,7 +34,7 @@ Step -4   Change in htdocs/gForm/environment.php. file (FOR WINDOWS)
               $env_server = "localhost:3306";
               $env_username = "root";
               $env_password = "";
-              $env_database = "dB";
+              $env_database = "gForm";
               $env_port = "3306";
             ?>
 
@@ -47,11 +47,7 @@ Step -6   Create database
 
 Step -7   Database name  "dB"
 
-Step -8   Add Three tables from "/htdocs/gForm/" directory in database name "dB". 
-
-            1) fields.sql
-            2) forms.sql
-            3) users.sql
+Step -8   Import the database from "/htdocs/gForm/gForm.sql" directory in database.
 
 Step -9   Run in browser 
 
