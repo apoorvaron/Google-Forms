@@ -1,4 +1,4 @@
-# How to Run on local 📖
+# How to Run on Local 📖
 
 - Must install PHP version (FOR WINDOWS) & (FOR MAC) Both
 - Tutorial - https://www.youtube.com/watch?v=mVBe75aGBHQ
