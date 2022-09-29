@@ -13,7 +13,7 @@ Step -1   Download zip file
 
 Step -2   Unzip it & Rename it to "gForm"
 
-Step -3   Put gForm folder inside 
+Step -3   Put gForm folder inside :
 
           /Applications/MAMP/htdocs/  folder  (FOR MAC)
           C:/xampp/htdocs/            folder  (FOR WINDOWS)
