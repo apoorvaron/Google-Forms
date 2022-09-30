@@ -38,7 +38,7 @@ Step -4   Change in htdocs/gForm/environment.php. file (FOR WINDOWS)
               $env_port = "3306";
             ?>
 
-Step -5   Setup db open 
+Step -5   Setup dB open 
 
           localhost:8888/phpmyadmin/   (FOR MAMP)
           localhost/phpmyadmin/   (FOR XAMPP)
