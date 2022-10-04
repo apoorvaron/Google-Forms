@@ -32,6 +32,14 @@
   cursor: -webkit-grabbing;
   cursor: grabbing;
 }
+.updatedGlider{
+  margin: 0 auto;
+  position: relative;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+  -ms-overflow-style: none;
+  transform: translateZ(0);
+}
 .glider-slide {
   user-select: none;
   justify-content: center;
