@@ -28,7 +28,7 @@ Step -4   Change in /Applications/MAMP/htdocs/gForm/environment.php. file (FOR M
                $env_port = "8889";
             ?>
 
-Step -4   Change in htdocs/gForm/environment.php. file (FOR WINDOWS)
+Step -4   Change in htdocs/gForm/environment.php file (FOR WINDOWS)
           
             <?php
               $env_server = "localhost:3306";
