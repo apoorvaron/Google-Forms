@@ -11,6 +11,14 @@
   -ms-overflow-style: none;
   transform: translateZ(0);
 }
+.glider--main{
+  margin: 0 auto;
+  position: relative;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+  -ms-overflow-style: none;
+  transform: translateZ(0);
+}
 .glider-track {
   transform: translateZ(0);
   width: 100%;
