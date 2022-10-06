@@ -546,6 +546,10 @@ input::placeholder {
   opacity: 1;
 }
 
+body--main{
+  background-image: linear-gradient(to right, #F0FFFF, #89CFF0) !important;
+}
+
 .checkboxLabel {
   font-family: "Ubuntu", sans-serif;
   font-size: 20px;
