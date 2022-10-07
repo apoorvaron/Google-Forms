@@ -9,7 +9,7 @@
 
 -------*---------*----------
 
-Step -1   Download zip file 
+Step -1   Download Zip file 
 
 Step -2   Unzip it & Rename it to "gForm"
 
